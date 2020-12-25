@@ -13,13 +13,19 @@
     "type": "git",
     "url": "git+https://github.com/ez-kraivit/webin_randomid.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "randomid",
+    "javascript",
+    "mocha",
+    "JSON",
+    "password"
+  ],
+  "author": "Kraivit Mongkhonsakunrit",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ez-kraivit/webin_randomid/issues"
   },
-  "homepage": "https://github.com/ez-kraivit/webin_randomid#readme",
+  "homepage": "https://www.facebook.com/Creeksvit",
   "devDependencies": {
     "mocha": "*"
   }
