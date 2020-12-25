@@ -1,4 +1,4 @@
-WEBIN RANDOMID by Kraivit Mongkhonsakunrit [![Build Status](https://travis-ci.com/ez-kraivit/webin_randomid.svg?branch=master)](https://travis-ci.com/ez-kraivit/webin_randomid)
+WEBIN RANDOMID by Kraivit Mongkhonsakunrit [![Build Status](https://travis-ci.com/ez-kraivit/webin_randomid.svg?branch=master)](https://travis-ci.com/ez-kraivit/webin_randomid). 
 ========================
 ## Table Of Contents
 * [Benchmark](#benchmark)
