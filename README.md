@@ -45,4 +45,4 @@ webin_randomid            2,465,086 ops/sec
         randomid.generateid('base62', 10)
 		S42FWasYhb
 
-พร้อมให้้ใช้งานแล้วนะครับสำหรับ randomid รออัพเดทในอนาคต
+พร้อมให้ใช้งานแล้วนะครับสำหรับ randomid รออัพเดทในอนาคต
