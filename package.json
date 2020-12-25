@@ -1,0 +1,26 @@
+{
+  "name": "webin_randomid",
+  "version": "1.0.0",
+  "description": "ออกแบบให้รองรับการใช้งาน webin_randomid ในการสร้างไอดี ให้มีความรวดเร็วมากที่สุด",
+  "main": "./lib/randomid.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "NODE_PATH=. ./node_modules/.bin/mocha -R spec test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ez-kraivit/webin_randomid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ez-kraivit/webin_randomid/issues"
+  },
+  "homepage": "https://github.com/ez-kraivit/webin_randomid#readme",
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
