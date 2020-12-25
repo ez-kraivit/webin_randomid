@@ -28,7 +28,7 @@ uid                          85,583 ops/sec
 Non-secure:
 non-secure nanoid         2,641,654 ops/sec
 rndm                      2,447,086 ops/sec
-webin_randomid            2,465,086 ops/sec
+webin_randomid            2,565,423 ops/sec
 ```
 # [Installation](id:installation)
 
